@@ -1,6 +1,6 @@
 # Calculator
 
-A simple, functional calculator built with HTML, CSS, and JavaScript. This project demonstrates how to create a basic calculator web app that performs standard arithmetic operations.
+A simple, functional calculator built with HTML, CSS, and JavaScript. This project demonstrates a basic calculator web app that performs standard arithmetic operations.
 
 ## Features
 
